@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550264159303",
+    "project_id": "fumache-projeto-24",
+    "storage_bucket": "fumache-projeto-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550264159303:android:c45ca45360308bea118562",
+        "android_client_info": {
+          "package_name": "com.example.loginlucasfumache"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaS9ZH8aNfPoYkLsMPObLV_EPzSD88nDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
